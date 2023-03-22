@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @106xn, 38 years old, from Argentina, but i can relocate in North America or Europe.
+- 👋 Hi, I’m @106xn, 39 years old, from Argentina, but i can relocate in North America or Europe.
 - 👀 I’m interested in learning Full Stack development.
 - 🌱 I’m currently learning Sql using Visual Basic, and Hyper-v.
 - 💞️ I’m looking to collaborate on enterprises and small clients around the world.
